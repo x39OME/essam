@@ -51,6 +51,19 @@
    تم رفع الملفات على فرع master
   لابد من دمجها ونقلها الى gh-pages 
 
+```
+💡 نصيحة للمستقبل:
+
+الآن بعد أن ربطت الفروع ببعضها، في المرة القادمة التي تعدل فيها الكود، ستحتاج فقط لتنفيذ هذه الأوامر الثلاثة بالترتيب في فرع master:
+
+    git add .
+
+    git commit -m "Update"
+
+    git push origin master
+
+ثم تعود لفرع gh-pages وتعمل له merge كما فعلنا اليوم.
+```
 
 - git checkout master
 - git fetch origin

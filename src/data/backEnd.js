@@ -1,0 +1,79 @@
+// import projImg1 from '../assets/images/projects/project-img1.png';
+// import projImg2 from '../assets/images/projects/project-img2.png';
+import projImg3 from '../assets/images/projects/project-img3.png';
+import blog from '../assets/images/projects/back-end/blog.jpg';
+
+export const backEnd = [
+  {
+    title: 'My Projects',
+    description: 'Full Stack Development',
+    technologies: ['Php • ', 'Laravel • ', 'MySQL • ', 'Composer • ', 'Bootstrap • ', 'Lang • ', 'Vite'],
+    imgUrl: projImg3,
+    repo:'https://github.com/x39OME/My-Projects-Laravel',
+    demo:'https://github.com/x39OME/My-Projects-Laravel',
+  },
+  {
+    title: 'Blog',
+    description: 'Full Stack Development',
+    technologies: ['Php • ', 'Laravel • ', 'MySQL • ', 'Bootstrap'],
+    imgUrl: blog,
+    repo:'https://github.com/x39OME/blog_laravel',
+    demo:'https://github.com/x39OME/blog_laravel#project-operation-requirements',
+  },
+  {
+    title: 'Instagram',
+    description: 'Soon',
+    technologies: ['Php • ', 'Laravel • ', 'MySQL'],
+    imgUrl: projImg3,
+    repo:'',
+    demo:'',
+  },
+  {
+    title: 'RESTful API',
+    description: 'Soon',
+    technologies: ['Php • ', 'Laravel • ', 'MySQL'],
+    imgUrl: projImg3,
+    repo:'',
+    demo:'',
+  },
+  {
+    title: 'Book Store',
+    description: 'Soon',
+    technologies: ['Php • ', 'Laravel • ', 'MySQL'],
+    imgUrl: projImg3,
+    repo:'',
+    demo:'',
+  },
+  {
+    title: 'CMS',
+    description: 'Develop a content management system',
+    technologies: ['Php • ', 'Laravel • ', 'MySQL'],
+    imgUrl: projImg3,
+    repo:'',
+    demo:'',
+  },
+  {
+    title: 'Rate places on maps',
+    description: 'Soon',
+    technologies: ['Php • ', 'Laravel • ', 'MySQL'],
+    imgUrl: projImg3,
+    repo:'',
+    demo:'',
+  },
+  {
+    title: 'Tasks To Do',
+    description: 'Full Stack Development',
+    technologies: ['Php • ', 'MySQL • ', 'Bootstrap'],
+    imgUrl: projImg3,
+    repo:'https://github.com/x39OME/tasks-to-do-php',
+    demo:'https://github.com/x39OME/tasks-to-do-php?tab=readme-ov-file#how-to-prepare-the-project',
+  },
+  {
+    title: 'Contact Form',
+    description: 'Full Stack Development',
+    technologies: ['Php • ', 'MySQL • ', 'Bootstrap'],
+    imgUrl: projImg3,
+    repo:'https://github.com/x39OME/contact-form-php',
+    demo:'https://github.com/x39OME/contact-form-php',
+  },
+];

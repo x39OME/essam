@@ -37,8 +37,16 @@
 
 
 ## Important!! How to Update the Projects:
+- git init
+- git add .
+- git commit -m "Update my website with new features"
+  ```
+  git config --global user.email "myEmaill@example.com"
+  git config --global user.name "Your Name"
 
+- git commit -m "Update my website with new features"
 
+  
 
 # Getting Started with Create React App
 

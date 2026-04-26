@@ -45,7 +45,9 @@
   git config --global user.name "Your Name"
 
 - git commit -m "Update my website with new features"
-
+- git push
+- git push origin main # or # git push --set-upstream origin master
+  
   
 
 # Getting Started with Create React App

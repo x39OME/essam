@@ -47,6 +47,19 @@
 - git commit -m "Update my website with new features"
 - git push
 - git push origin main # or # git push --set-upstream origin master
+  ```
+   تم رفع الملفات على فرع master
+  لابد من دمجها ونقلها الى gh-pages 
+
+
+- git checkout master
+- git fetch origin
+- git checkout gh-pages
+- git checkout -b gh-pages origin/gh-pages
+- git checkout -b gh-pages
+- git pull origin gh-pages
+- git merge master
+- git push origin gh-pages
   
   
 

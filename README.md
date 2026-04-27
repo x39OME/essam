@@ -73,6 +73,10 @@
 - git pull origin gh-pages
 - git merge master
 - git push origin gh-pages
+
+- npm run deploy
+  ```
+  لتحديث الموقع وتحديث التعديلات
   
   
 

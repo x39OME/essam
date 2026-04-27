@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.f28ce459.css",
-    "main.js": "/essam/static/js/main.9d6c9ab9.js",
+    "main.css": "/essam/static/css/main.5ef748a8.css",
+    "main.js": "/essam/static/js/main.552f432a.js",
     "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -65,7 +65,7 @@
     "static/media/laragon.svg": "/essam/static/media/laragon.d23333221809c3f1ef29ba45c55bcde4.svg",
     "static/media/nav-icon8.svg": "/essam/static/media/nav-icon8.3bed8d01df6e2b3e4f2209cc9629ecdb.svg",
     "static/media/github.svg": "/essam/static/media/github.c35763d84d45912bc97b7026fc7ddc5e.svg",
-    "static/media/git.svg": "/essam/static/media/git.8ee81345da1c18b6cdb4bbe93b464810.svg",
+    "static/media/git.svg": "/essam/static/media/git.6f19690dc5fd14f7a9593d09f8d78b36.svg",
     "static/media/python.svg": "/essam/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
     "static/media/nav-icon5.svg": "/essam/static/media/nav-icon5.781c51ab052698c0b47fc6fc96e765a5.svg",
     "static/media/bootstrap.svg": "/essam/static/media/bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
@@ -77,16 +77,16 @@
     "static/media/nav-icon1.svg": "/essam/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/essam/index.html",
     "static/media/nav-icon7.svg": "/essam/static/media/nav-icon7.c513361652f8267157d90be31e28e97f.svg",
-    "static/media/tailwind.svg": "/essam/static/media/tailwind.973c73e85d4daa24b257ba20298716c4.svg",
+    "static/media/tailwind.svg": "/essam/static/media/tailwind.03fdecbfd26561a058e76b84d95184a7.svg",
     "static/media/css.svg": "/essam/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.f28ce459.css.map": "/essam/static/css/main.f28ce459.css.map",
-    "main.9d6c9ab9.js.map": "/essam/static/js/main.9d6c9ab9.js.map",
+    "main.5ef748a8.css.map": "/essam/static/css/main.5ef748a8.css.map",
+    "main.552f432a.js.map": "/essam/static/js/main.552f432a.js.map",
     "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f28ce459.css",
-    "static/js/main.9d6c9ab9.js"
+    "static/css/main.5ef748a8.css",
+    "static/js/main.552f432a.js"
   ]
 }

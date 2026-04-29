@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/essam/static/css/main.471b7adb.css",
-    "main.js": "/essam/static/js/main.5d76f0c9.js",
+    "main.js": "/essam/static/js/main.8011957f.js",
     "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -82,11 +82,11 @@
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.471b7adb.css.map": "/essam/static/css/main.471b7adb.css.map",
-    "main.5d76f0c9.js.map": "/essam/static/js/main.5d76f0c9.js.map",
+    "main.8011957f.js.map": "/essam/static/js/main.8011957f.js.map",
     "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.471b7adb.css",
-    "static/js/main.5d76f0c9.js"
+    "static/js/main.8011957f.js"
   ]
 }

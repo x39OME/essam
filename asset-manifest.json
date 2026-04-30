@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/essam/static/css/main.5a5c96a8.css",
-    "main.js": "/essam/static/js/main.34301520.js",
+    "main.js": "/essam/static/js/main.52610592.js",
     "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -17,6 +17,7 @@
     "static/media/100-projects-100-days.png": "/essam/static/media/100-projects-100-days.bc08e35d1cbc7a1f411d.png",
     "static/media/dashboard-website.jpg": "/essam/static/media/dashboard-website.58beb82ea127176430fc.jpg",
     "static/media/vr-world-metavers.png": "/essam/static/media/vr-world-metavers.8686756fd2a16c2dca59.png",
+    "static/media/travel-the-world-ai.png": "/essam/static/media/travel-the-world-ai.b5d6bd5bd3332edd7802.png",
     "static/media/Essam_Abdullah_CS_Specialist_CV.pdf": "/essam/static/media/Essam_Abdullah_CS_Specialist_CV.b1c1067264fb0b0dddc2.pdf",
     "static/media/watches-website.png": "/essam/static/media/watches-website.06cfdcb9b4214cc9b217.png",
     "static/media/portfolio-template-react.png": "/essam/static/media/portfolio-template-react.9ef4628ca4a3ceb732f2.png",
@@ -42,8 +43,6 @@
     "static/media/task-to-do-ustudy.png": "/essam/static/media/task-to-do-ustudy.b527bd8e46ce77150159.png",
     "static/media/dark-mode.jpg": "/essam/static/media/dark-mode.8a2303e6d3821fe709cc.jpg",
     "static/media/login-signup-firebase.png": "/essam/static/media/login-signup-firebase.fc359a9539a86f91ef9c.png",
-    "static/media/project-img2.png": "/essam/static/media/project-img2.2e52097c417f9f1134b0.png",
-    "static/media/project-img3.png": "/essam/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/contact-img.svg": "/essam/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/star.gif": "/essam/static/media/star.0dcd7163acb3da4f4a33.gif",
     "static/media/revicons.eot": "/essam/static/media/revicons.a77de540a38981833f9e.eot",
@@ -82,11 +81,11 @@
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.5a5c96a8.css.map": "/essam/static/css/main.5a5c96a8.css.map",
-    "main.34301520.js.map": "/essam/static/js/main.34301520.js.map",
+    "main.52610592.js.map": "/essam/static/js/main.52610592.js.map",
     "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a5c96a8.css",
-    "static/js/main.34301520.js"
+    "static/js/main.52610592.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/essam/static/css/main.7dd478bf.css",
-    "main.js": "/essam/static/js/main.66f99a08.js",
+    "main.js": "/essam/static/js/main.057abe41.js",
     "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/essam/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
@@ -54,6 +54,7 @@
     "static/media/revicons.woff": "/essam/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/copilot.svg": "/essam/static/media/copilot.a8fce1354fd9224018cc8742b14c5db4.svg",
     "static/media/progress2.svg": "/essam/static/media/progress2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/deepseek.svg": "/essam/static/media/deepseek.fde93b07e78fd48943d5e43fcf692468.svg",
     "static/media/progress1.svg": "/essam/static/media/progress1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/mysql.svg": "/essam/static/media/mysql.0697e026464104aea8919845703174b9.svg",
     "static/media/sass.svg": "/essam/static/media/sass.8aa78a8393470431c8036541f0708bd7.svg",
@@ -91,11 +92,11 @@
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.7dd478bf.css.map": "/essam/static/css/main.7dd478bf.css.map",
-    "main.66f99a08.js.map": "/essam/static/js/main.66f99a08.js.map",
+    "main.057abe41.js.map": "/essam/static/js/main.057abe41.js.map",
     "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dd478bf.css",
-    "static/js/main.66f99a08.js"
+    "static/js/main.057abe41.js"
   ]
 }

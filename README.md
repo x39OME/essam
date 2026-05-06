@@ -38,6 +38,7 @@
 - git remote add origin https://github.com/x39OME/essam.git
 - npm run deploy
 
+** Delete file git. and agine use git init **
 
 ## Important!! How to Update the Projects:
 - git init

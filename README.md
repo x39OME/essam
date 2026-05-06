@@ -1,5 +1,8 @@
 # Personal Website Essam
-
+- The project was enhanced using Claude artificial intelligence.
+- [The main project]()
+- [repo](https://github.com/x39OME/portfolio-sam-reactjs)
+- 
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
 ### 2- [React Bootstrap](https://react-bootstrap.netlify.app/)

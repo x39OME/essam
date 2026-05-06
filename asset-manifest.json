@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.7dd478bf.css",
-    "main.js": "/essam/static/js/main.93191cb7.js",
-    "static/js/453.5acd3821.chunk.js": "/essam/static/js/453.5acd3821.chunk.js",
+    "main.css": "/essam/static/css/main.2512ce4e.css",
+    "main.js": "/essam/static/js/main.13f1cac3.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/essam/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -18,6 +17,8 @@
     "static/media/color-sharp2.png": "/essam/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/100-projects-100-days.png": "/essam/static/media/100-projects-100-days.bc08e35d1cbc7a1f411d.png",
     "static/media/dashboard-website.jpg": "/essam/static/media/dashboard-website.58beb82ea127176430fc.jpg",
+    "static/media/essam-ai.png": "/essam/static/media/essam-ai.c0c8b4e8ec11c5834a8f.png",
+    "static/media/personal-website-sam-reactjs.png": "/essam/static/media/personal-website-sam-reactjs.24fecd953517d0f342fb.png",
     "static/media/vr-world-metavers.png": "/essam/static/media/vr-world-metavers.8686756fd2a16c2dca59.png",
     "static/media/travel-the-world-ai.png": "/essam/static/media/travel-the-world-ai.b5d6bd5bd3332edd7802.png",
     "static/media/Essam_Abdullah_CS_Specialist_CV.pdf": "/essam/static/media/Essam_Abdullah_CS_Specialist_CV.c823a0ead7b6bd680e05.pdf",
@@ -45,13 +46,12 @@
     "static/media/task-to-do-ustudy.png": "/essam/static/media/task-to-do-ustudy.b527bd8e46ce77150159.png",
     "static/media/dark-mode.jpg": "/essam/static/media/dark-mode.8a2303e6d3821fe709cc.jpg",
     "static/media/login-signup-firebase.png": "/essam/static/media/login-signup-firebase.fc359a9539a86f91ef9c.png",
-    "static/media/contact-img.svg": "/essam/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
-    "static/media/star.gif": "/essam/static/media/star.0dcd7163acb3da4f4a33.gif",
+    "static/media/project-img2.png": "/essam/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/essam/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/revicons.eot": "/essam/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/essam/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/gemini.svg": "/essam/static/media/gemini.c4bd5e1a404d4023439aaef42d9e65c1.svg",
     "static/media/reactnative.svg": "/essam/static/media/reactnative.55360266b3781dae00a5a77c8916f82d.svg",
-    "static/media/test.svg": "/essam/static/media/test.9da56fb25eb4580441875130602efb32.svg",
     "static/media/revicons.woff": "/essam/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/json.svg": "/essam/static/media/json.eb39ec4a70806884ba5d268832cb335c.svg",
     "static/media/copilot.svg": "/essam/static/media/copilot.a8fce1354fd9224018cc8742b14c5db4.svg",
@@ -73,7 +73,6 @@
     "static/media/nav-icon3.svg": "/essam/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/netlify.svg": "/essam/static/media/netlify.c779369f482f2cbac69c91972c7157a7.svg",
     "static/media/laragon.svg": "/essam/static/media/laragon.d23333221809c3f1ef29ba45c55bcde4.svg",
-    "static/media/nav-icon8.svg": "/essam/static/media/nav-icon8.3bed8d01df6e2b3e4f2209cc9629ecdb.svg",
     "static/media/github.svg": "/essam/static/media/github.c35763d84d45912bc97b7026fc7ddc5e.svg",
     "static/media/git.svg": "/essam/static/media/git.6f19690dc5fd14f7a9593d09f8d78b36.svg",
     "static/media/python.svg": "/essam/static/media/python.e6d7dc739a91892bbf1f6262412046dd.svg",
@@ -93,12 +92,11 @@
     "static/media/css.svg": "/essam/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.7dd478bf.css.map": "/essam/static/css/main.7dd478bf.css.map",
-    "main.93191cb7.js.map": "/essam/static/js/main.93191cb7.js.map",
-    "453.5acd3821.chunk.js.map": "/essam/static/js/453.5acd3821.chunk.js.map"
+    "main.2512ce4e.css.map": "/essam/static/css/main.2512ce4e.css.map",
+    "main.13f1cac3.js.map": "/essam/static/js/main.13f1cac3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dd478bf.css",
-    "static/js/main.93191cb7.js"
+    "static/css/main.2512ce4e.css",
+    "static/js/main.13f1cac3.js"
   ]
 }

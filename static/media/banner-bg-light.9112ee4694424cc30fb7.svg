@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="900" viewBox="0 0 1920 900">
+  <defs>
+    <!-- Light background gradient (same composition, white instead of black) -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#F8F9FF"/>
+      <stop offset="40%"  stop-color="#EEF1FF"/>
+      <stop offset="100%" stop-color="#E8ECFF"/>
+    </linearGradient>
+
+    <!-- Left nebula — purple/pink (same position as dark mode) -->
+    <radialGradient id="nebula-left" cx="22%" cy="55%" r="38%">
+      <stop offset="0%"   stop-color="#AA367C" stop-opacity="0.22"/>
+      <stop offset="60%"  stop-color="#7B3FBE" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#AA367C" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Bottom-right nebula — reddish-purple (same position as dark mode) -->
+    <radialGradient id="nebula-right" cx="82%" cy="72%" r="32%">
+      <stop offset="0%"   stop-color="#9B2063" stop-opacity="0.20"/>
+      <stop offset="60%"  stop-color="#6B2FA0" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#9B2063" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Top center subtle glow -->
+    <radialGradient id="nebula-top" cx="42%" cy="20%" r="18%">
+      <stop offset="0%"   stop-color="#4A2FBD" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#4A2FBD" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Orb outer glow — strong cyan/blue to pop on light bg -->
+    <radialGradient id="orb-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#00CFFF" stop-opacity="0.70"/>
+      <stop offset="35%"  stop-color="#4A2FBD" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#4A2FBD" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Orb body -->
+    <radialGradient id="orb-inner" cx="38%" cy="32%" r="60%">
+      <stop offset="0%"   stop-color="#DDEFFF"/>
+      <stop offset="45%"  stop-color="#55AAFF"/>
+      <stop offset="100%" stop-color="#2A4FBD"/>
+    </radialGradient>
+
+    <!-- Shooting star gradients — cyan/teal like dark mode -->
+    <linearGradient id="streak1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00CFFF" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00CFFF" stop-opacity="0.70"/>
+      <stop offset="100%" stop-color="#4A2FBD" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="streak2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00BFCC" stop-opacity="0"/>
+      <stop offset="55%"  stop-color="#00BFCC" stop-opacity="0.65"/>
+      <stop offset="100%" stop-color="#00BFCC" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="streak3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#4A2FBD" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00CFFF" stop-opacity="0.60"/>
+      <stop offset="100%" stop-color="#4A2FBD" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Blur filters -->
+    <filter id="blur-orb">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <filter id="blur-md">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="blur-sm">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <filter id="blur-xs">
+      <feGaussianBlur stdDeviation="1.5"/>
+    </filter>
+  </defs>
+
+  <!-- ─── Background ─── -->
+  <rect width="1920" height="900" fill="url(#bg)"/>
+
+  <!-- ─── Nebula blobs (same positions as dark mode) ─── -->
+  <rect width="1920" height="900" fill="url(#nebula-left)"/>
+  <rect width="1920" height="900" fill="url(#nebula-right)"/>
+  <rect width="1920" height="900" fill="url(#nebula-top)"/>
+
+  <!-- ─── Shooting stars — same direction & count as dark mode (diagonal, upper-left to lower-right) ─── -->
+  <!-- Streak 1: top-left area -->
+  <line x1="55"   y1="110" x2="210" y2="58"  stroke="url(#streak1)" stroke-width="1.8" opacity="0.85" transform="rotate(-18,130,84)"/>
+  <line x1="57"   y1="112" x2="212" y2="60"  stroke="url(#streak2)" stroke-width="0.6" opacity="0.45" filter="url(#blur-xs)" transform="rotate(-18,134,86)"/>
+
+  <!-- Streak 2: upper area, left of orb -->
+  <line x1="320"  y1="68"  x2="500" y2="115" stroke="url(#streak2)" stroke-width="1.6" opacity="0.80" transform="rotate(15,410,91)"/>
+  <line x1="322"  y1="70"  x2="502" y2="117" stroke="url(#streak1)" stroke-width="0.5" opacity="0.40" filter="url(#blur-xs)" transform="rotate(15,412,93)"/>
+
+  <!-- Streak 3: right of orb, mid-right -->
+  <line x1="1060" y1="300" x2="1180" y2="248" stroke="url(#streak3)" stroke-width="1.5" opacity="0.75"/>
+  <line x1="1062" y1="302" x2="1182" y2="250" stroke="url(#streak1)" stroke-width="0.5" opacity="0.38" filter="url(#blur-xs)"/>
+
+  <!-- Streak 4: far right, upper -->
+  <line x1="1540" y1="40"  x2="1900" y2="105" stroke="url(#streak1)" stroke-width="1.4" opacity="0.70"/>
+  <line x1="1542" y1="42"  x2="1902" y2="107" stroke="url(#streak2)" stroke-width="0.5" opacity="0.35" filter="url(#blur-xs)"/>
+
+  <!-- Streak 5: center, going right-down -->
+  <line x1="680"  y1="520" x2="840"  y2="480" stroke="url(#streak2)" stroke-width="1.3" opacity="0.65"/>
+
+  <!-- Streak 6: lower center-left -->
+  <line x1="160"  y1="700" x2="330"  y2="740" stroke="url(#streak3)" stroke-width="1.2" opacity="0.62"/>
+
+  <!-- Streak 7: lower right -->
+  <line x1="960"  y1="775" x2="1160" y2="835" stroke="url(#streak1)" stroke-width="1.3" opacity="0.65"/>
+
+  <!-- Streak 8: far right lower -->
+  <line x1="1640" y1="650" x2="1920" y2="710" stroke="url(#streak2)" stroke-width="1.4" opacity="0.68"/>
+
+  <!-- ─── Glowing Orb — same position as dark mode (upper center-left) ─── -->
+  <!-- Outer glow halo — needs to be strong to show on light bg -->
+  <ellipse cx="760" cy="195" rx="100" ry="100" fill="url(#orb-glow)" filter="url(#blur-orb)" opacity="1.0"/>
+  <ellipse cx="760" cy="195" rx="65"  ry="65"  fill="url(#orb-glow)" filter="url(#blur-md)"  opacity="0.80"/>
+  <ellipse cx="760" cy="195" rx="40"  ry="40"  fill="url(#orb-glow)" filter="url(#blur-sm)"  opacity="0.65"/>
+  <!-- Orb body -->
+  <circle  cx="760" cy="195" r="30"  fill="url(#orb-inner)" opacity="0.98"/>
+  <!-- Orb shine -->
+  <ellipse cx="751" cy="183" rx="10"  ry="8"   fill="white" opacity="0.60"/>
+  <!-- Orbital rings (same as dark mode) -->
+  <ellipse cx="760" cy="195" rx="52"  ry="18"  fill="none" stroke="#00CFFF" stroke-width="1.6" opacity="0.70" transform="rotate(-25,760,195)"/>
+  <ellipse cx="760" cy="195" rx="52"  ry="18"  fill="none" stroke="#6B4EFF" stroke-width="1.0" opacity="0.45" transform="rotate(-25,760,195)" filter="url(#blur-xs)"/>
+  <ellipse cx="760" cy="195" rx="44"  ry="20"  fill="none" stroke="#AA367C" stroke-width="1.3" opacity="0.50" transform="rotate(55,760,195)"/>
+  <ellipse cx="760" cy="195" rx="62"  ry="14"  fill="none" stroke="#4A2FBD" stroke-width="0.9" opacity="0.40" transform="rotate(10,760,195)"/>
+
+  <!-- ─── Stars — same layout as dark mode but in soft purple/blue (not white) ─── -->
+  <!-- Large star dots -->
+  <circle cx="45"   cy="310" r="2.5" fill="#7B3FBE" opacity="0.40"/>
+  <circle cx="298"  cy="170" r="2.2" fill="#AA367C" opacity="0.38"/>
+  <circle cx="430"  cy="225" r="1.8" fill="#7B3FBE" opacity="0.42"/>
+  <circle cx="615"  cy="230" r="2.2" fill="#AA367C" opacity="0.36"/>
+  <circle cx="915"  cy="175" r="2.0" fill="#4A2FBD" opacity="0.38"/>
+  <circle cx="1070" cy="268" r="2.4" fill="#7B3FBE" opacity="0.36"/>
+  <circle cx="1295" cy="288" r="2.2" fill="#AA367C" opacity="0.34"/>
+  <circle cx="1418" cy="572" r="2.6" fill="#AA367C" opacity="0.38"/>
+  <circle cx="1454" cy="415" r="1.8" fill="#7B3FBE" opacity="0.34"/>
+  <circle cx="1852" cy="88"  r="2.0" fill="#4A2FBD" opacity="0.36"/>
+  <circle cx="1705" cy="244" r="1.8" fill="#AA367C" opacity="0.34"/>
+
+  <!-- Blue accent dots -->
+  <circle cx="385"  cy="374" r="2.2" fill="#4A2FBD" opacity="0.34"/>
+  <circle cx="720"  cy="465" r="2.4" fill="#4A2FBD" opacity="0.36"/>
+  <circle cx="802"  cy="572" r="2.0" fill="#6B4EFF" opacity="0.34"/>
+  <circle cx="1028" cy="460" r="2.2" fill="#4A2FBD" opacity="0.36"/>
+  <circle cx="1214" cy="448" r="1.8" fill="#4A2FBD" opacity="0.32"/>
+  <circle cx="1314" cy="582" r="2.2" fill="#4A2FBD" opacity="0.34"/>
+  <circle cx="1442" cy="182" r="2.6" fill="#4A2FBD" opacity="0.38"/>
+  <circle cx="1882" cy="415" r="2.2" fill="#6B4EFF" opacity="0.34"/>
+  <circle cx="1884" cy="578" r="2.6" fill="#4A2FBD" opacity="0.36"/>
+
+  <!-- Tiny scattered dots — purple -->
+  <circle cx="168"  cy="216" r="1.4" fill="#AA367C" opacity="0.30"/>
+  <circle cx="478"  cy="465" r="1.2" fill="#7B3FBE" opacity="0.28"/>
+  <circle cx="565"  cy="614" r="1.4" fill="#AA367C" opacity="0.30"/>
+  <circle cx="684"  cy="690" r="1.2" fill="#AA367C" opacity="0.26"/>
+  <circle cx="864"  cy="742" r="1.4" fill="#7B3FBE" opacity="0.28"/>
+  <circle cx="1154" cy="694" r="1.2" fill="#AA367C" opacity="0.26"/>
+  <circle cx="1214" cy="772" r="1.4" fill="#AA367C" opacity="0.28"/>
+  <circle cx="1522" cy="310" r="1.2" fill="#7B3FBE" opacity="0.26"/>
+  <circle cx="1788" cy="555" r="1.4" fill="#AA367C" opacity="0.28"/>
+
+  <!-- Tiny scattered dots — blue -->
+  <circle cx="298"  cy="464" r="1.2" fill="#4A2FBD" opacity="0.28"/>
+  <circle cx="948"  cy="334" r="1.4" fill="#6B4EFF" opacity="0.30"/>
+  <circle cx="1098" cy="578" r="1.2" fill="#4A2FBD" opacity="0.26"/>
+  <circle cx="1394" cy="732" r="1.4" fill="#6B4EFF" opacity="0.28"/>
+  <circle cx="1704" cy="312" r="1.2" fill="#4A2FBD" opacity="0.26"/>
+  <circle cx="1754" cy="726" r="1.4" fill="#4A2FBD" opacity="0.28"/>
+  <circle cx="1824" cy="190" r="1.2" fill="#6B4EFF" opacity="0.26"/>
+  <circle cx="88"   cy="545" r="1.2" fill="#4A2FBD" opacity="0.26"/>
+  <circle cx="540"  cy="388" r="1.0" fill="#7B3FBE" opacity="0.24"/>
+</svg>

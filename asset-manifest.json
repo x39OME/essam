@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.2512ce4e.css",
-    "main.js": "/essam/static/js/main.13f1cac3.js",
+    "main.css": "/essam/static/css/main.3b15ac46.css",
+    "main.js": "/essam/static/js/main.92842483.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/essam/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -17,10 +17,10 @@
     "static/media/color-sharp2.png": "/essam/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/100-projects-100-days.png": "/essam/static/media/100-projects-100-days.bc08e35d1cbc7a1f411d.png",
     "static/media/dashboard-website.jpg": "/essam/static/media/dashboard-website.58beb82ea127176430fc.jpg",
-    "static/media/essam-ai.png": "/essam/static/media/essam-ai.c0c8b4e8ec11c5834a8f.png",
     "static/media/personal-website-sam-reactjs.png": "/essam/static/media/personal-website-sam-reactjs.24fecd953517d0f342fb.png",
     "static/media/vr-world-metavers.png": "/essam/static/media/vr-world-metavers.8686756fd2a16c2dca59.png",
     "static/media/travel-the-world-ai.png": "/essam/static/media/travel-the-world-ai.b5d6bd5bd3332edd7802.png",
+    "static/media/essam-ai.png": "/essam/static/media/essam-ai.dd26a8495aab55b6b035.png",
     "static/media/Essam_Abdullah_CS_Specialist_CV.pdf": "/essam/static/media/Essam_Abdullah_CS_Specialist_CV.c823a0ead7b6bd680e05.pdf",
     "static/media/watches-website.png": "/essam/static/media/watches-website.06cfdcb9b4214cc9b217.png",
     "static/media/portfolio-template-react.png": "/essam/static/media/portfolio-template-react.9ef4628ca4a3ceb732f2.png",
@@ -48,19 +48,14 @@
     "static/media/login-signup-firebase.png": "/essam/static/media/login-signup-firebase.fc359a9539a86f91ef9c.png",
     "static/media/project-img2.png": "/essam/static/media/project-img2.2e52097c417f9f1134b0.png",
     "static/media/project-img3.png": "/essam/static/media/project-img3.675b30d2f975a1bc1d09.png",
-    "static/media/revicons.eot": "/essam/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/essam/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/banner-bg-light.svg": "/essam/static/media/banner-bg-light.9112ee4694424cc30fb7.svg",
     "static/media/gemini.svg": "/essam/static/media/gemini.c4bd5e1a404d4023439aaef42d9e65c1.svg",
     "static/media/reactnative.svg": "/essam/static/media/reactnative.55360266b3781dae00a5a77c8916f82d.svg",
-    "static/media/revicons.woff": "/essam/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/json.svg": "/essam/static/media/json.eb39ec4a70806884ba5d268832cb335c.svg",
     "static/media/copilot.svg": "/essam/static/media/copilot.a8fce1354fd9224018cc8742b14c5db4.svg",
-    "static/media/progress2.svg": "/essam/static/media/progress2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
     "static/media/deepseek.svg": "/essam/static/media/deepseek.fde93b07e78fd48943d5e43fcf692468.svg",
-    "static/media/progress1.svg": "/essam/static/media/progress1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/mysql.svg": "/essam/static/media/mysql.0697e026464104aea8919845703174b9.svg",
     "static/media/sass.svg": "/essam/static/media/sass.8aa78a8393470431c8036541f0708bd7.svg",
-    "static/media/progress3.svg": "/essam/static/media/progress3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/chatgpt.svg": "/essam/static/media/chatgpt.7b161b0ecd6c8b8656e5d9de1ed7fbf2.svg",
     "static/media/xampp.svg": "/essam/static/media/xampp.ed27b4877fcfd2fd74dc95e8dc2152ed.svg",
     "static/media/react.svg": "/essam/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
@@ -83,20 +78,20 @@
     "static/media/wordpress.svg": "/essam/static/media/wordpress.203c28dfdb6b9849eef82ad98ba47662.svg",
     "static/media/typescript.svg": "/essam/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
     "static/media/nextjs.svg": "/essam/static/media/nextjs.d162f667d02681a4cc3e7a4f37c99e75.svg",
+    "index.html": "/essam/index.html",
     "static/media/nav-icon4.svg": "/essam/static/media/nav-icon4.8d77f4c2c560022c3f2688cd59eef372.svg",
     "static/media/vscode.svg": "/essam/static/media/vscode.b8b1e001813039750e6c05c236ab0d46.svg",
     "static/media/nav-icon1.svg": "/essam/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "index.html": "/essam/index.html",
     "static/media/nav-icon7.svg": "/essam/static/media/nav-icon7.c513361652f8267157d90be31e28e97f.svg",
     "static/media/tailwind.svg": "/essam/static/media/tailwind.03fdecbfd26561a058e76b84d95184a7.svg",
     "static/media/css.svg": "/essam/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.2512ce4e.css.map": "/essam/static/css/main.2512ce4e.css.map",
-    "main.13f1cac3.js.map": "/essam/static/js/main.13f1cac3.js.map"
+    "main.3b15ac46.css.map": "/essam/static/css/main.3b15ac46.css.map",
+    "main.92842483.js.map": "/essam/static/js/main.92842483.js.map"
   },
   "entrypoints": [
-    "static/css/main.2512ce4e.css",
-    "static/js/main.13f1cac3.js"
+    "static/css/main.3b15ac46.css",
+    "static/js/main.92842483.js"
   ]
 }

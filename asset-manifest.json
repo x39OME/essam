@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.3b15ac46.css",
-    "main.js": "/essam/static/js/main.d4b51212.js",
+    "main.css": "/essam/static/css/main.84a8cde8.css",
+    "main.js": "/essam/static/js/main.a053b664.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/essam/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -21,7 +21,6 @@
     "static/media/vr-world-metavers.png": "/essam/static/media/vr-world-metavers.8686756fd2a16c2dca59.png",
     "static/media/travel-the-world-ai.png": "/essam/static/media/travel-the-world-ai.b5d6bd5bd3332edd7802.png",
     "static/media/essam-ai.png": "/essam/static/media/essam-ai.dd26a8495aab55b6b035.png",
-    "static/media/Essam_Abdullah_CS_Specialist_CV.pdf": "/essam/static/media/Essam_Abdullah_CS_Specialist_CV.c823a0ead7b6bd680e05.pdf",
     "static/media/watches-website.png": "/essam/static/media/watches-website.06cfdcb9b4214cc9b217.png",
     "static/media/portfolio-template-react.png": "/essam/static/media/portfolio-template-react.9ef4628ca4a3ceb732f2.png",
     "static/media/blog.jpg": "/essam/static/media/blog.573a4a9e6839681232b6.jpg",
@@ -90,11 +89,11 @@
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/claudecode.svg": "/essam/static/media/claudecode.ec67a3f55e52d685f44b7c4f1f4bf642.svg",
-    "main.3b15ac46.css.map": "/essam/static/css/main.3b15ac46.css.map",
-    "main.d4b51212.js.map": "/essam/static/js/main.d4b51212.js.map"
+    "main.84a8cde8.css.map": "/essam/static/css/main.84a8cde8.css.map",
+    "main.a053b664.js.map": "/essam/static/js/main.a053b664.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b15ac46.css",
-    "static/js/main.d4b51212.js"
+    "static/css/main.84a8cde8.css",
+    "static/js/main.a053b664.js"
   ]
 }

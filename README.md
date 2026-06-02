@@ -1,8 +1,22 @@
 # Personal Website Essam
-- The project was enhanced using Claude artificial intelligence.
+- The project was enhanced using Claude AI.
+- Claude Code, Sonnet 4.6 Opus 4.7
+- Add Light Mode
+- Add Scroll to Top
+- Improve the Header section
+- Update the About Me section and add Stats
+- Update the Skills section
+- Add a new Services section
+- Improve the Projects section
+- Update the Contact section
+- Improve animations and add effects and shapes
+
+##
 - [The main project](https://x39ome.github.io/personal-website-sam-reactjs/)
 - [repo](https://github.com/x39OME/portfolio-sam-reactjs)
-- 
+
+
+
 ## What did we use in the project?
 ### 1- [React Js](https://react.dev/learn/installation)
 ### 2- [React Bootstrap](https://react-bootstrap.netlify.app/)

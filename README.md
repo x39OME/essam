@@ -7,6 +7,7 @@
 ### 4- [React Multi Carousel](https://www.npmjs.com/package/react-multi-carousel)
 ### 5- [Eepurl](http://www.eepurl.com/) | [New Eepurl](https://mailchimp.com/)
 ### 6- [Animate.css](https://animate.style/)
+### 7- [Claude Code AI](https://code.claude.com/docs/en/quickstart)
 
 ## Prerequisites
 

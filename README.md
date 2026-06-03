@@ -11,7 +11,7 @@
 
 ## Prerequisites
 
-- npx create-react-app my-app
+- npx create-react-app essam
 - npm install react-bootstrap bootstrap
 - npm i bootstrap-icons
 - npm install react-bootstrap-icons --save

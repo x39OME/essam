@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.84a8cde8.css",
-    "main.js": "/essam/static/js/main.5108f001.js",
+    "main.css": "/essam/static/css/main.c1357071.css",
+    "main.js": "/essam/static/js/main.5e10fcba.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/essam/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -15,6 +15,7 @@
     "static/media/world-blog-website.png": "/essam/static/media/world-blog-website.c8495c6d7201a6e31791.png",
     "static/media/old-portfolio-sam.jpg": "/essam/static/media/old-portfolio-sam.3c716d507cc8a293c3c9.jpg",
     "static/media/color-sharp2.png": "/essam/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/shellify—premium-device-mockup-generator.png": "/essam/static/media/shellify—premium-device-mockup-generator.2d880626ea1e871bd75a.png",
     "static/media/100-projects-100-days.png": "/essam/static/media/100-projects-100-days.bc08e35d1cbc7a1f411d.png",
     "static/media/dashboard-website.jpg": "/essam/static/media/dashboard-website.58beb82ea127176430fc.jpg",
     "static/media/personal-website-sam-reactjs.png": "/essam/static/media/personal-website-sam-reactjs.24fecd953517d0f342fb.png",
@@ -46,7 +47,6 @@
     "static/media/footer-bg.png": "/essam/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/youtube-clone-api-app.jpg": "/essam/static/media/youtube-clone-api-app.cf0b9f736def528edd36.jpg",
     "static/media/profile.jpg": "/essam/static/media/profile.5d325bec7eb29aa98040.jpg",
-    "static/media/project-img2.png": "/essam/static/media/project-img2.2e52097c417f9f1134b0.png",
     "static/media/project-img3.png": "/essam/static/media/project-img3.675b30d2f975a1bc1d09.png",
     "static/media/banner-bg-light.svg": "/essam/static/media/banner-bg-light.9112ee4694424cc30fb7.svg",
     "static/media/gemini.svg": "/essam/static/media/gemini.c4bd5e1a404d4023439aaef42d9e65c1.svg",
@@ -67,7 +67,6 @@
     "static/media/cplusplus.svg": "/essam/static/media/cplusplus.30cd71dc0624ba73acf8d9f9204f66bb.svg",
     "static/media/nav-icon2.svg": "/essam/static/media/nav-icon2.69af2589cb5ec0150855935fed2f0f3f.svg",
     "static/media/nav-icon3.svg": "/essam/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "static/media/netlify.svg": "/essam/static/media/netlify.c779369f482f2cbac69c91972c7157a7.svg",
     "static/media/laragon.svg": "/essam/static/media/laragon.d23333221809c3f1ef29ba45c55bcde4.svg",
     "static/media/github.svg": "/essam/static/media/github.c35763d84d45912bc97b7026fc7ddc5e.svg",
     "static/media/git.svg": "/essam/static/media/git.6f19690dc5fd14f7a9593d09f8d78b36.svg",
@@ -81,7 +80,6 @@
     "static/media/nextjs.svg": "/essam/static/media/nextjs.d162f667d02681a4cc3e7a4f37c99e75.svg",
     "index.html": "/essam/index.html",
     "static/media/nav-icon4.svg": "/essam/static/media/nav-icon4.8d77f4c2c560022c3f2688cd59eef372.svg",
-    "static/media/vscode.svg": "/essam/static/media/vscode.b8b1e001813039750e6c05c236ab0d46.svg",
     "static/media/nav-icon1.svg": "/essam/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon7.svg": "/essam/static/media/nav-icon7.c513361652f8267157d90be31e28e97f.svg",
     "static/media/tailwind.svg": "/essam/static/media/tailwind.03fdecbfd26561a058e76b84d95184a7.svg",
@@ -89,11 +87,11 @@
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/claudecode.svg": "/essam/static/media/claudecode.ec67a3f55e52d685f44b7c4f1f4bf642.svg",
-    "main.84a8cde8.css.map": "/essam/static/css/main.84a8cde8.css.map",
-    "main.5108f001.js.map": "/essam/static/js/main.5108f001.js.map"
+    "main.c1357071.css.map": "/essam/static/css/main.c1357071.css.map",
+    "main.5e10fcba.js.map": "/essam/static/js/main.5e10fcba.js.map"
   },
   "entrypoints": [
-    "static/css/main.84a8cde8.css",
-    "static/js/main.5108f001.js"
+    "static/css/main.c1357071.css",
+    "static/js/main.5e10fcba.js"
   ]
 }

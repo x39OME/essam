@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/essam/static/css/main.fcdf11cb.css",
-    "main.js": "/essam/static/js/main.9377524c.js",
+    "main.js": "/essam/static/js/main.98c9df51.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/essam/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -88,10 +88,10 @@
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/claudecode.svg": "/essam/static/media/claudecode.ec67a3f55e52d685f44b7c4f1f4bf642.svg",
     "main.fcdf11cb.css.map": "/essam/static/css/main.fcdf11cb.css.map",
-    "main.9377524c.js.map": "/essam/static/js/main.9377524c.js.map"
+    "main.98c9df51.js.map": "/essam/static/js/main.98c9df51.js.map"
   },
   "entrypoints": [
     "static/css/main.fcdf11cb.css",
-    "static/js/main.9377524c.js"
+    "static/js/main.98c9df51.js"
   ]
 }

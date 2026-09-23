@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/essam/static/css/main.fcdf11cb.css",
-    "main.js": "/essam/static/js/main.98c9df51.js",
+    "main.css": "/essam/static/css/main.87398243.css",
+    "main.js": "/essam/static/js/main.ffe49de5.js",
     "static/media/oasis-desert-website.png": "/essam/static/media/oasis-desert-website.301a629c4638dc4941ce.png",
     "static/media/c-chocolat-maison-du-cacao-ai.png": "/essam/static/media/c-chocolat-maison-du-cacao-ai.de3bd331f342dcd62ee8.png",
     "static/media/wood-website.png": "/essam/static/media/wood-website.f4404f562fd361c14527.png",
@@ -21,6 +21,7 @@
     "static/media/personal-website-sam-reactjs.png": "/essam/static/media/personal-website-sam-reactjs.24fecd953517d0f342fb.png",
     "static/media/vr-world-metavers.png": "/essam/static/media/vr-world-metavers.8686756fd2a16c2dca59.png",
     "static/media/travel-the-world-ai.png": "/essam/static/media/travel-the-world-ai.b5d6bd5bd3332edd7802.png",
+    "static/media/recipe-app-ai.png": "/essam/static/media/recipe-app-ai.5bf59f8456e1cd214606.png",
     "static/media/essam-ai.png": "/essam/static/media/essam-ai.dd26a8495aab55b6b035.png",
     "static/media/watches-website.png": "/essam/static/media/watches-website.06cfdcb9b4214cc9b217.png",
     "static/media/portfolio-template-react.png": "/essam/static/media/portfolio-template-react.9ef4628ca4a3ceb732f2.png",
@@ -28,7 +29,7 @@
     "static/media/banner-bg.png": "/essam/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/portfolio-template-website.png": "/essam/static/media/portfolio-template-website.8be3413084cef19565dc.png",
     "static/media/header.svg": "/essam/static/media/header.84bf93eb20488a753440bf83d27db7bb.svg",
-    "static/media/your-daily-babits-ai.jpg": "/essam/static/media/your-daily-babits-ai.caa27d9ebd13e18a9ee5.jpg",
+    "static/media/your-daily-habits-ai.jpg": "/essam/static/media/your-daily-habits-ai.caa27d9ebd13e18a9ee5.jpg",
     "static/media/travel-app.jpg": "/essam/static/media/travel-app.6175999a603f5e72217a.jpg",
     "static/media/my-resume.jpg": "/essam/static/media/my-resume.ea719178621b5ae5d792.jpg",
     "static/media/dark-light.jpg": "/essam/static/media/dark-light.4bcec5e11cd1e6ea3ea4.jpg",
@@ -87,11 +88,11 @@
     "static/media/html.svg": "/essam/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "static/media/javascript.svg": "/essam/static/media/javascript.b879f838faf1cb951d1c2230fd933a39.svg",
     "static/media/claudecode.svg": "/essam/static/media/claudecode.ec67a3f55e52d685f44b7c4f1f4bf642.svg",
-    "main.fcdf11cb.css.map": "/essam/static/css/main.fcdf11cb.css.map",
-    "main.98c9df51.js.map": "/essam/static/js/main.98c9df51.js.map"
+    "main.87398243.css.map": "/essam/static/css/main.87398243.css.map",
+    "main.ffe49de5.js.map": "/essam/static/js/main.ffe49de5.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcdf11cb.css",
-    "static/js/main.98c9df51.js"
+    "static/css/main.87398243.css",
+    "static/js/main.ffe49de5.js"
   ]
 }

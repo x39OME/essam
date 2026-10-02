@@ -6,6 +6,7 @@
 ### 3- [React Bootstrap Icons](https://icons.getbootstrap.com/) - [npm](https://www.npmjs.com/package/react-bootstrap-icons)
 ### 4- [React Multi Carousel](https://www.npmjs.com/package/react-multi-carousel)
 ### 5- [Eepurl](http://www.eepurl.com/) | [New Eepurl](https://mailchimp.com/)
+### 6- [Formspree](https://formspree.io) | .env
 ### 6- [Animate.css](https://animate.style/)
 ### 7- [Claude Code AI](https://code.claude.com/docs/en/quickstart)
 

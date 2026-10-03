@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/icon/icon.png" sizes="any" />
+    <link rel="icon" type="image/png" href="/icon/icon.png" />
+    <link rel="apple-touch-icon" href="/icon/icon-192.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#121212" />
+    <meta name="color-scheme" content="dark light" />
+
+    <title>Sam | Software Engineer</title>
+    <meta name="description" content="Essam Abdullah — front-end web and cross-platform mobile (React Native) developer building AI-augmented digital solutions. Explore projects, skills and services." />
+    <meta name="author" content="Essam Abdullah" />
+    <link rel="canonical" href="https://x39ome.github.io/essam/" />
+
+    <!-- Open Graph / Twitter -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Essam Abdullah" />
+    <meta property="og:title" content="Essam Abdullah | Front-End &amp; Mobile Developer" />
+    <meta property="og:description" content="Front-end web, React Native mobile apps and AI integration. Browse 30+ projects." />
+    <meta property="og:url" content="https://x39ome.github.io/essam/" />
+    <meta property="og:image" content="https://x39ome.github.io/essam/icon/icon-512.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Essam Abdullah | Front-End &amp; Mobile Developer" />
+    <meta name="twitter:description" content="Front-end web, React Native mobile apps and AI integration." />
+    <meta name="twitter:image" content="https://x39ome.github.io/essam/icon/icon-512.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap" />
+
+    <link rel="manifest" href="/manifest.json" />
+
+    <!-- Apply saved (or system) theme before React renders to prevent flash -->
+    <script>
+      (function () {
+        var t = null;
+        try { t = localStorage.getItem('theme'); } catch (e) {}
+        if (t !== 'light' && t !== 'dark') {
+          t = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        }
+        document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+      <script type="module" src="/src/index.jsx"></script>
+  </body>
+</html>
